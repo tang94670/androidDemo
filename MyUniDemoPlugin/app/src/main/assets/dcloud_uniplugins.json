@@ -1,0 +1,14 @@
+{
+  "nativePlugins":[
+    {
+      "hooksClass": "uni.dcloud.io.uniplugin_richalert.apphooks",
+      "plugins": [
+        {
+          "type": "module",
+          "name": "Test-Plugin",
+          "class": "com.android.testplugin.TestModule"
+        }
+      ]
+    }
+  ]
+}
